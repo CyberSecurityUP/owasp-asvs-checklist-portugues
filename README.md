@@ -1,12 +1,12 @@
 # owasp-asvs-checklist-portugues
 
-##Introduction
+## Introdução
 
 O principal objetivo do projeto OWASP Application Security Verification Standard (ASVS) é fornecer um padrão de segurança de aplicativo aberto para aplicativos da web e serviços da web de todos os tipos.
 
 O padrão fornece uma base para projetar, construir e testar controles de segurança de aplicativos técnicos, incluindo questões arquitetônicas, ciclo de vida de desenvolvimento seguro, modelagem de ameaças, segurança ágil incluindo integração / implantação contínua, sem servidor e problemas de configuração.
 
-##Objetivos do Padrão
+## Objetivos do Padrão
 
 Os requisitos foram desenvolvidos com os seguintes objetivos em mente:
 
@@ -20,7 +20,7 @@ Minimize a sobreposição e concorrência de requisitos de outros padrões, alin
 As listas de requisitos ASVS são disponibilizadas em CSV, JSON e outros formatos que podem ser úteis para referência ou uso programático.
 
 
-##Repositório principal
+## Repositório principal
 
 https://github.com/OWASP/ASVS/
 
